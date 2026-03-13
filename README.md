@@ -29,3 +29,6 @@ During the **Data Understanding** and **Data Preparation** phases, several criti
 
 ## 📄 Documentation
 For a deep dive into the business logic, methodology, statistical analysis, and final model evaluation, please refer to the main documentation file located in the `/docs/` folder.
+
+## 🛠 Skills
+Data Mining, Data Preprocessing, Feature Engineering, Exploratory Data Analysis (EDA), CRISP-DM Methodology, Predictive Modeling, Binary Classification, Statistical Analysis, IBM SPSS Modeler.
