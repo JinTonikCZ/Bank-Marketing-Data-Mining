@@ -30,5 +30,8 @@ During the **Data Understanding** and **Data Preparation** phases, several criti
 ## 📄 Documentation
 For a deep dive into the business logic, methodology, statistical analysis, and final model evaluation, please refer to the main documentation file located in the `/docs/` folder.
 
-## 🛠 Skills
-Data Mining, Data Preprocessing, Feature Engineering, Exploratory Data Analysis (EDA), CRISP-DM Methodology, Predictive Modeling, Binary Classification, Statistical Analysis, IBM SPSS Modeler.
+## 🎓 What I Learned (Skills Acquired)
+* **End-to-End Analytics:** Mastered the complete data mining lifecycle using the CRISP-DM framework, from business understanding to model evaluation.
+* **Data Quality Management:** Learned how to identify and solve critical data issues in real-world datasets, such as hidden missing data (e.g., "unknown" categories), outliers, and target leakage.
+* **Statistical Rigor:** Gained practical experience in exploratory data analysis (EDA), correlation analysis, and resolving multicollinearity to build simpler, more reliable predictive models.
+* **Visual ML Pipelines:** Developed strong hands-on skills in creating visual machine learning workflows and building binary classification models using **IBM SPSS Modeler**.
